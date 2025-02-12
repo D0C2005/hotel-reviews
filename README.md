@@ -5,12 +5,7 @@ The Python files in this repository are the codes used in the research for the p
 "_From Reviews to Actionable Insights: Leveraging NLP for Sentiment and Topic Analysis in Hospitality_" 
 
 (in the process of publishing)
-by:
 
-- Cristina Fleșeriu (Faculty of Business, Babeș-Bolyai University, Cluj-Napoca, Romania)
-- Smaranda Adina Cosma (Faculty of Business, Babeș-Bolyai University, Cluj-Napoca, Romania)
-- Katarina Kostelic (Faculty of Informatics, Juraj Dobrila University of Pula, Pula, Croatia)
-- Vlad Bocăneț (Faculty of Industrial Engineering, Robotics and Production Management, Technical University of Cluj-Napoca, Cluj-Napoca, Romania)
 
 The original data was obtained from: _https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe_
 
